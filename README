@@ -1,0 +1,9 @@
+This is a sudoku solver that can solve (9 * 9) sudokus.
+This solver uses the Dancing Links algorithm by Donald E. Knuth.
+In order to use this solver,start by executing the following command in the
+terminal:
+"sh start.sh"(quotes for clarity)
+The time to solve may vary & the solver can take a long time for solving some
+grids.
+Check out the example image on how to enter the input sudoku grid.
+Enjoy!!!!!!!
